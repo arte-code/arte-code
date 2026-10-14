@@ -5,7 +5,7 @@ Currently working with **ASP .NET CORE**, also building things in **Python** and
 #### What I'm up to
  
 - Studying Computer Science
-- Building REST APIs with Spring Boot + PostgreSQL
+- Building REST APIs with ASP .NET CORE + PostgreSQL
  
 #### Tech I use
  
